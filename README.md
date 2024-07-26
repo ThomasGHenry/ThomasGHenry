@@ -1,4 +1,6 @@
-### Well, this is fun.
+💻 Ex-IBM <br/>
+☁️ Software Engineering Generalist <br/>
+🧪 Empathize. Deliver. Repeat. <br/>
 
 <!--
 **ThomasGHenry/ThomasGHenry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
