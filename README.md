@@ -1,18 +1,24 @@
-💻 Ex-IBM <br/>
-☁️ Software Engineering Generalist <br/>
-🧪 Empathize. Deliver. Repeat. <br/>
+# Thomas G Henry
 
-<!--
-**ThomasGHenry/ThomasGHenry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Full-Stack Engineer | AI-Native | Cloud-Native | Systems Thinking**
 
-Here are some ideas to get you started:
+⚡ **Tomorrow's changes are faster and safer because of how I ship today.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+15+ years of engineering and ownership across IBM, Duke University, and startups.
+
+I work across the stack, from interfaces and APIs to data, infrastructure, and production operations. I particularly enjoy making complex systems easier to understand, maintain, and extend.
+
+### 🛠️ Recent stacks include:
+
+- **Applications:** TypeScript, React, Next.js, Node.js, Express
+- **Data & Infrastructure:** PostgreSQL, Supabase, Firebase, AWS, Terraform
+- **Applied AI:** LLM integrations, agentic workflows, automation
+- **Engineering Practices:** TDD, CI/CD, observability, continuous delivery
+
+### 🤝 Connect
+
+Open to remote engineering roles, contract work, and consulting.
+
+🔗 [ThomasGHenry.com](https://thomasghenry.com) · [LinkedIn](https://www.linkedin.com/in/thomasghenry)
+
+*Empathize. Deliver. Repeat.*
